@@ -40,11 +40,11 @@ button {
 }
 
 /* Specific styles for "Yes" button */
-#yes-button {
+#yesButton {
     background-color: #0091ff; /* Pink background for "Yes" */
 }
 
 /* Specific styles for "No" button */
-#no-button {
+#noButton {
     background-color: #ff5151; /* Red background for "No" */
 }
